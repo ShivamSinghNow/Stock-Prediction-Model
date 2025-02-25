@@ -61,7 +61,7 @@ The **K-Means clustering algorithm** is used to group the stock prices based on 
 Generated plots help understand how stock prices **transition over time** through different market phases.
 
 Example visualization:
-![Example Clustering Plot](example_plot.png) *(Replace with an actual image from the project)*
+![Example Clustering Plot](example_plot.png) 
 
 ## **Technologies Used**
 - **Python**
